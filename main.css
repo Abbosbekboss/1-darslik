@@ -1,0 +1,53 @@
+/* .rangi{
+    color: red;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+}
+.btn{
+    color: red;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic; 
+
+}
+.title{
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-decoration: overline;
+    text-align: left;
+    text-align: right;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 20px;
+    word-spacing: 100px;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+}
+.tel{
+    list-style: upper-alpha;
+}
+.rang{
+    color: brown;
+    font-style: italic;
+}
+.rangi{
+    color: brown;
+    font-style: italic;
+} */
+/* .list{
+    width: 200px;
+    color: red;
+    border: 1px solid blue;
+    border: 1px dashed black;
+    border: ;
+} */
+body{
+    background-color: antiquewhite;
+}
+.joy{
+    width: 350px;
+    height: 150px;
+    background-color: blue;
+}
